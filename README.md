@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Joana 👋
 
-<!--
-**joanakz/joanakz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an aspiring software developer with a strong interest in open-source technologies and cybersecurity.
 
-Here are some ideas to get you started:
+## 🚀 Projects
+- 🔐 Password Generator (Python)  
+  A script that generates secure random passwords using letters, numbers, and symbols.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📂 File Organizer  
+  A script that automatically sorts files into folders based on file type.
+
+## 🌱 Currently Learning
+- Python  
+- Git & GitHub  
+- Open Source contribution  
+
+## 💼 Background
+I have 7+ years of experience in customer operations, compliance, and problem-solving in fast-paced environments. I'm now transitioning into tech and building hands-on projects to grow as a developer.
+
+## 🎯 Goal
+To become a software developer and contribute to open-source projects.
+
+## 🌍 Languages
+- English (fluent)  
+- Lithuanian (fluent)  
+- Russian (fluent)  
+- Polish (fluent)  
