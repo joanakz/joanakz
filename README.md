@@ -1,12 +1,12 @@
 # Hi, I'm Joana 👋
 
-I'm an aspiring software developer with a strong interest in open-source technologies and cybersecurity.
+I'm transitioning into software development with a strong interest in open-source technologies and cybersecurity. I'm currently building Python projects and developing my technical skills.
 
 ## 🚀 Projects
-- 🔐 Password Generator (Python)  
+- 🔐 [Password Generator](https://github.com/joanakz/password-generator)  
   A script that generates secure random passwords using letters, numbers, and symbols.
 
-- 📂 File Organizer  
+- 📂 [File Organizer](https://github.com/joanakz/file-organizer)  
   A script that automatically sorts files into folders based on file type.
 
 ## 🌱 Currently Learning
