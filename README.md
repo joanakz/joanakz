@@ -1,24 +1,31 @@
 # Hi, I'm Joana 👋
 
-I'm transitioning into software development with a strong interest in open-source technologies and cybersecurity. I'm currently building Python projects and developing my technical skills.
+I’m transitioning into tech with a strong interest in cybersecurity and understanding how systems work behind the scenes.
+Coming from a background in fintech, operations and compliance, I’m used to working in structured, high-responsibility environments where accuracy and problem-solving matter.
+I’m currently building hands-on experience through Python projects and exploring areas like automation, APIs and security fundamentals.
 
 ## 🚀 Projects
 - 🔐 [Password Generator](https://github.com/joanakz/password-generator)  
-  A script that generates secure random passwords using letters, numbers, and symbols.
+ A Python script that generates secure passwords using letters, numbers and symbols.
+→ Focus: basic security principles & randomness
 
 - 📂 [File Organizer](https://github.com/joanakz/file-organizer)  
-  A script that automatically sorts files into folders based on file type.
+  A Python script that automatically sorts files into folders based on type.
+→ Focus: automation & system organization
 
-## 🌱 Currently Learning
-- Python  
-- Git & GitHub  
-- Open Source contribution  
+## 🌱 Current Focus
+- Python (practical scripting & automation)
+- APIs & system communication basics
+- Cybersecurity fundamentals (risk, threats, basic principles)
+- Git & GitHub workflow
+- Exploring real-world fintech and system environments 
 
 ## 💼 Background
-I have 7+ years of experience in customer operations, compliance, and problem-solving in fast-paced environments. I'm now transitioning into tech and building hands-on projects to grow as a developer.
+I have 7+ years of experience in customer operations, compliance and problem-solving, including working in a regulated fintech environment.
+My experience includes handling complex cases, investigating issues and working within structured systems. Which naturally aligns with technical troubleshooting, risk awareness and security-focused thinking.
 
 ## 🎯 Goal
-To become a software developer and contribute to open-source projects.
+To build a career in technology with a focus on cybersecurity and systems, combining my background in fintech, risk and operations with technical skills.
 
 ## 🌍 Languages
 - English (fluent)  
